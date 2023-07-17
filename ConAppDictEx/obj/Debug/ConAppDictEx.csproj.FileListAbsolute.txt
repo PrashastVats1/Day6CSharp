@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\bin\Debug\ConAppDictEx.exe.config
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\bin\Debug\ConAppDictEx.exe
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\bin\Debug\ConAppDictEx.pdb
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\obj\Debug\ConAppDictEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\obj\Debug\ConAppDictEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\obj\Debug\ConAppDictEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\obj\Debug\ConAppDictEx.exe
+D:\Mphasis\Live Session\Day6\ConAppDictEx\ConAppDictEx\obj\Debug\ConAppDictEx.pdb
