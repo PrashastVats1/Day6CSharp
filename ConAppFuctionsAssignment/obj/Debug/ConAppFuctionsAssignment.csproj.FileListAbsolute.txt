@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\bin\Debug\ConAppFuctionsAssignment.exe.config
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\bin\Debug\ConAppFuctionsAssignment.exe
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\bin\Debug\ConAppFuctionsAssignment.pdb
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\obj\Debug\ConAppFuctionsAssignment.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\obj\Debug\ConAppFuctionsAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\obj\Debug\ConAppFuctionsAssignment.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\obj\Debug\ConAppFuctionsAssignment.exe
+D:\Mphasis\Live Session\Day6\ConAppFuctionsAssignment\ConAppFuctionsAssignment\obj\Debug\ConAppFuctionsAssignment.pdb
