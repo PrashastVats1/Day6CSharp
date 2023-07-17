@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStacks", "ConsoleAppStacks\ConsoleAppStacks.csproj", "{5E55284B-1CAC-4E05-93F9-522CBCAE8063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E55284B-1CAC-4E05-93F9-522CBCAE8063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E55284B-1CAC-4E05-93F9-522CBCAE8063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E55284B-1CAC-4E05-93F9-522CBCAE8063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E55284B-1CAC-4E05-93F9-522CBCAE8063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A532664-FDEB-418C-AB03-C5931AE7B25E}
+	EndGlobalSection
+EndGlobal
