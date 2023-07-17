@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\bin\Debug\ConAppGenericCollectionsEx.exe.config
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\bin\Debug\ConAppGenericCollectionsEx.exe
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\bin\Debug\ConAppGenericCollectionsEx.pdb
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\obj\Debug\ConAppGenericCollectionsEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\obj\Debug\ConAppGenericCollectionsEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\obj\Debug\ConAppGenericCollectionsEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\obj\Debug\ConAppGenericCollectionsEx.exe
+D:\Mphasis\Live Session\Day6\ConAppGenericCollectionsEx\ConAppGenericCollectionsEx\obj\Debug\ConAppGenericCollectionsEx.pdb
